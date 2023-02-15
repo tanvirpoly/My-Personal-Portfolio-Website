@@ -3,8 +3,8 @@
 ---
 
 
-<img src="cart.png"
-     alt="Email Validation Check by JavaScript"/>
+<img src="profile.png"
+     alt="profile"/>
 
 
 
