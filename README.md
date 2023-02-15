@@ -1,5 +1,5 @@
 
-# Email Validation Check by JavaScript
+# My Personal Portfolio Website
 ---
 
 
@@ -7,22 +7,11 @@
      alt="profile"/>
 
 
+<img src="profile01.png"
+     alt="profile"/>
 
 
-# You have entered an invalid email address
----
 
-
-<img src="check_01.png"
-     alt="Email Validation Check by JavaScript"/>
-
-
-     # You have entered an valid email address
----
-
-
-<img src="check_02.png"
-     alt="Email Validation Check by JavaScript"/>
 
 
 
